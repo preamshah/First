@@ -5,13 +5,13 @@
 
 ## At a Glance
 
-- 🔭 **Current Project:** I’m currently working on **Coffee Shop website Development**
+- 🔭 **Current Project:** I’m currently working on **Nepal News Developmen**
 - 🌱 **Learning:** I’m currently learning **carimson**
 - 👯 **Collaboration:** I’m looking to collaborate on `dev.pream`
 - 🤝 **Assistance:** I’m looking for help with **powerfull coder**
-- 📝 **Articles & Blog:** I regularly write articles on [https://preamshah.blogspot.com/](https://preamshah.blogspot.com/)
+- 📝 **Portfolio:** [https://preamshah.com/](https://preamshah.com/)
 - 💬 **Discussions:** Ask me about **reacted**
-- 📫 **Contact:** How to reach me **preamshahofficial@gmail.com**
+- 📫 **Contact:** How to reach me **info@preamshah.com**
 
 ---
 
